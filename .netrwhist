@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='ftp://admin_ftp@forada.tk//'
+let g:netrw_dirhist_5='ftp://ftp@forada.tk//'
+let g:netrw_dirhist_4='ftp://ftp@forada.tk.com//'
+let g:netrw_dirhist_3='ftp://ftp@forada.tk//'
+let g:netrw_dirhist_2='ftp://admin_ftp@forada.tk//'
+let g:netrw_dirhist_1='ftp://root@forada.tk//'
